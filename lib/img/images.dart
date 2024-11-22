@@ -1,0 +1,41 @@
+class MyImages {
+  final String carouselImgCarouselImg1 = 'assets/images/carousel_img/carouselImg1.png';
+  final String carouselImgCarouselImg2 = 'assets/images/carousel_img/carouselImg2.png';
+  final String carouselImgCarouselImg3 = 'assets/images/carousel_img/carouselImg3.png';
+  final String carouselImgCarouselImg4 = 'assets/images/carousel_img/carouselImg4.png';
+  final String carouselImgCarouselImg5 = 'assets/images/carousel_img/carouselImg5.png';
+  final String carouselImgImg = 'assets/images/carousel_img/carouselImg6.png';
+  final String drinksImgDrinks1 = 'assets/images/drinks_img/drinks1.png';
+  final String drinksImgDrinks2 = 'assets/images/drinks_img/drinks2.png';
+  final String drinksImgDrinks3 = 'assets/images/drinks_img/drinks3.png';
+  final String drinksImgDrinks4 = 'assets/images/drinks_img/drinks4.png';
+  final String drinksImgDrinks5 = 'assets/images/drinks_img/drinks5.png';
+  final String fastFoodImgFastFood2 = 'assets/images/fast_food_img/fastFood2.png';
+  final String fastFoodImgFastFood3 = 'assets/images/fast_food_img/fastFood3.png';
+  final String fastFoodImgFastFood4 = 'assets/images/fast_food_img/fastFood4.png';
+  final String fastFoodImgFastFood5 = 'assets/images/fast_food_img/fastFood5.png';
+  final String franceFoodFrFood1 = 'assets/images/france_food/frFood1.png';
+  final String franceFoodFrFood2 = 'assets/images/france_food/frFood2.png';
+  final String franceFoodFrFood3 = 'assets/images/france_food/frFood3.png';
+  final String franceFoodFrFood4 = 'assets/images/france_food/frFood4.png';
+  final String italianMealsImgItFood = 'assets/images/italian_meals_img/itFood.png';
+  final String italianMealsImgItFood1 = 'assets/images/italian_meals_img/itFood1.png';
+  final String saladsImgSalad1 = 'assets/images/salads_img/salad1.png';
+  final String saladsImgSalad2 = 'assets/images/salads_img/salad2.png';
+  final String saladsImgSalad3 = 'assets/images/salads_img/salad3.png';
+  final String saladsImgSalad4 = 'assets/images/salads_img/salad4.png';
+  final String saladsImgSalad5 = 'assets/images/salads_img/salad5.png';
+  final String screenImgAppBarImg = 'assets/images/screen_img/appBarImg.png';
+  final String screenImgDrinks = 'assets/images/screen_img/drinks.png';
+  final String screenImgFastFood = 'assets/images/screen_img/fast_food.png';
+  final String screenImgFranceFood = 'assets/images/screen_img/france_food.png';
+  final String screenImgItalianFood = 'assets/images/screen_img/italian_food.png';
+  final String screenImgPlov = 'assets/images/screen_img/plov.png';
+  final String uzbekNationalMealsImgMeal1 = 'assets/images/uzbek_national_meals_img/meal1.png';
+  final String uzbekNationalMealsImgMeal2 = 'assets/images/uzbek_national_meals_img/meal2.png';
+  final String uzbekNationalMealsImgMeal3 = 'assets/images/uzbek_national_meals_img/meal3.png';
+  final String uzbekNationalMealsImgMeal4 = 'assets/images/uzbek_national_meals_img/meal4.png';
+  final String uzbekNationalMealsImgMeal5 = 'assets/images/uzbek_national_meals_img/meal5.png';
+  final String screenCola = 'assets/images/screen_img/drinks.jpg';
+
+}
